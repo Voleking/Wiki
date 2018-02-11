@@ -2,6 +2,7 @@
 
 # go to the output directory and create a new git repo
 cd output || exit 1 # abort script if folder does not exists
+cp ../CNAME .
 git init
 
 # inside this git repo we'll pretend to be a new user
