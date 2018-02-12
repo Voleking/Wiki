@@ -3,6 +3,7 @@
     "plugins": [
         "tiddlywiki/tiddlyweb",
         "tiddlywiki/filesystem",
+		"tiddlywiki/powered-by-tiddlywiki",
         "tiddlywiki/highlight",
         "tiddlywiki/markdown",
 		"tiddlywiki/codemirror",
