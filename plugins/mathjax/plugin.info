@@ -1,0 +1,6 @@
+{
+        "title": "$:/plugins/kpe/mathjax",
+        "description": "LaTeX plugin (through MathJax)",
+        "author": "kpe",
+        "core-version": ">=5.0.0"
+}
